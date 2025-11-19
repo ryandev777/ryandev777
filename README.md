@@ -1,11 +1,5 @@
 <!-- Banner / Apresentação -->
-<h1 align="center">👋 Olá, eu sou o <strong>Ryan</strong></h1>
 <h3 align="center">Desenvolvedor Fullstack | Criando soluções modernas e escaláveis</h3>
-
-<!-- Linha animada -->
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.gif" alt="snake" />
-</p>
 
 ---
 
@@ -54,14 +48,10 @@ _(Atualizando sempre 👨‍💻✨)_
 ## 🌎 Onde me encontrar?
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ryan-dev" target="_blank">
+  <a href="https://www.linkedin.com/in/jo%C3%A3oryan/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
-  </a>
-  <a href="mailto:contato@ryan.dev">
-    <img src="https://skillicons.dev/icons?i=gmail" width="48"/>
   </a>
 </p>
 
 ---
 
-<p align="center">✨ Feito com dedicação e código limpo ✨</p>
