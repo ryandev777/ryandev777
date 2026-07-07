@@ -1,57 +1,39 @@
-<!-- Banner / Apresentação -->
-<h3 align="center">Desenvolvedor Fullstack | Criando soluções modernas e escaláveis</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=180&section=header&text=Laís%20Arantes&fontSize=30&fontColor=fff" />
+# 👋 Olá! Me chamo Ryan.
+
+🎓 Engenharia de Software
+📊 Foco em Desenvolvimento web Back-end - Front-end - mobile
 
 ---
 
-## 🚀 Tecnologias que uso no dia a dia
+## 🚀 Sobre mim
+
+Desenvolvendo projetos práticos com dados, APIs e automação.
+
+Tenho interesse em construir soluções eficientes, escaláveis e orientadas a dados.
+
+Além disso, sou voluntária em uma comunidade de tecnologia, atuando como **líder de marketing e coordenadora de eventos**, contribuindo com organização, comunicação e engajamento da comunidade.
+
+---
+
+## ⚙️ Tecnologias
+
+📊 **Data Engineering:** Python • SQL • PostgreSQL • SQL Server • Apache Airflow • Docker  
+
+⚙️ **Back-end:** Node.js • Express • REST APIs  
+
+🎨 **Front-end:** React • JavaScript • HTML • CSS • Tailwind CSS  
+
+🤖 **IA:** Explorando Inteligência Artificial
+
+---
+
+⭐ Em constante evolução como desenvolvedora e futura engenheira de dados.
+
+## 🌐 Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/la%C3%ADs-arantes) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram)](https://www.instagram.com/laisarantesdev/)
 
 <p align="center">
-  <!-- React -->
-  <img src="https://skillicons.dev/icons?i=react" width="48" alt="React"/>
-  <!-- NextJS -->
-  <img src="https://skillicons.dev/icons?i=nextjs" width="48" alt="NextJS"/>
-  <!-- JavaScript -->
-  <img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript"/>
-  <!-- PHP -->
-  <img src="https://skillicons.dev/icons?i=php" width="48" alt="PHP"/>
-  <!-- SQL -->
-  <img src="https://skillicons.dev/icons?i=mysql" width="48" alt="SQL"/>
-  <!-- PostgreSQL -->
-  <img src="https://skillicons.dev/icons?i=postgres" width="48" alt="PostgreSQL"/>
-  <!-- Docker -->
-  <img src="https://skillicons.dev/icons?i=docker" width="48" alt="Docker"/>
-  <!-- NestJS -->
-  <img src="https://skillicons.dev/icons?i=nestjs" width="48" alt="NestJS"/>
+  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,express,postgres,mysql,docker,git,github,vscode,html,css,tailwind" />
 </p>
-
----
-
-## 📊 Minhas estatísticas no GitHub
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ryandev777&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ryandev777&theme=tokyonight" />
-</p>
-
----
-
-## 🌀 Projetos em destaque
-
-🔹 **API completa com NestJS + Docker + PostgreSQL**  
-🔹 **Dashboard em Next.js com autenticação JWT**  
-🔹 **Aplicações React com Swiper, Context API e integração real**  
-
-_(Atualizando sempre 👨‍💻✨)_
-
----
-
-## 🌎 Onde me encontrar?
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/jo%C3%A3oryan/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
-  </a>
-</p>
-
----
-
