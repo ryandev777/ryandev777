@@ -41,5 +41,5 @@ Gosto de resolver problemas críticos em produção, criar componentes reutiliz�
 [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:joaoryanoliveira2005@gmail.com)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,nestjs,express,postgres,docker,git,github,vscode,tailwind,html,css,java,kotlin,n8n" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,nestjs,express,postgres,docker,git,github,vscode,tailwind,html,css,java,kotlin,mysql" />
 </p>
